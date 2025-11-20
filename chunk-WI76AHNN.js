@@ -1,0 +1,1 @@
+import{ja as t}from"./chunk-JEWN7HZN.js";var a=class e{isNativeWebView;isBrowser;constructor(){let i=window;this.isNativeWebView=!!i.ReactNativeWebView||!!i.webkit?.messageHandlers?.reactNative,this.isBrowser=!this.isNativeWebView}static \u0275fac=function(o){return new(o||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{a};
