@@ -1,0 +1,1 @@
+import{na as r}from"./chunk-AY4KP6D3.js";var a=class e{_target=null;setTarget(t){this._target=t}consumeTarget(){let t=this._target;return this._target=null,t}static \u0275fac=function(n){return new(n||e)};static \u0275prov=r({token:e,factory:e.\u0275fac,providedIn:"root"})};export{a};
